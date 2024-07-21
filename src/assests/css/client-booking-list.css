@@ -1,0 +1,31 @@
+.booking_list {
+    border: 1px solid #d9d9d9;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+.booking_list_header{
+    margin-bottom: 5px;
+}
+
+.booking_list_header p {
+    color: #000;
+}
+
+.items {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.items p {
+    color: #000;
+}
+
+.delete_room_btn{
+    border: none;
+}
+
+.delete_room_btn:hover{
+    color: #000 !important;
+}

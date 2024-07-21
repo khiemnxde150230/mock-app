@@ -1,0 +1,23 @@
+.user-avatar-info{
+    padding: 20px 0;
+}
+
+.user-avatar-info .ant-upload-list .ant-upload {
+    width: auto !important;
+    height: auto !important;
+}
+
+.user-avatar-info .ant-upload-list .ant-upload-list-item-container {
+    width: fit-content !important;
+    height: fit-content !important;
+}
+
+.btn-save-user-infor{
+    background: #405a3d;
+}
+
+.user-avatar-info .ant-upload-list .ant-upload-list-item-container
+.ant-upload-list-item-done .ant-upload-list-item-thumbnail > img {
+    width: 150px !important;
+    height: 150px !important;
+}

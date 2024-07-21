@@ -1,0 +1,45 @@
+.time_roomtype_sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 83px;
+    padding: 1.2rem;
+    z-index: 10;
+    background-color: #fff;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+
+.list_sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    float: right;
+    top: 160px;
+    padding: 0.2rem;
+    z-index: 10;
+    background-color: transparent;
+    width: 20%;
+    margin-right: 15%;
+    margin-top: -146px;
+    max-height: 70%;
+}
+.header_img{
+    background-image: url("https://tbb-prod-apac.imgix.net/attachments/properties/banners/17927/thu.jpg?auto=format,compress&fit=crop&crop=entropy&w=1536&h=300&q=55 1x, https://tbb-prod-apac.imgix.net/attachments/properties/banners/17927/thu.jpg?auto=format,compress&fit=crop&crop=entropy&w=1536&h=300&dpr=2&q=20 2x");
+    background-size: 50%;
+    padding: 100%;
+    padding-bottom: 0;
+    background-repeat: no-repeat;
+    background-position: top;
+    position: absolute;
+    top:0;
+    z-index: -1;
+    left: -50%;
+}
+
+.room_detail_list{
+    margin-top: 95px;
+}
+
+.payment{
+    margin-left: 11%;
+    margin-top: 30px;
+}
